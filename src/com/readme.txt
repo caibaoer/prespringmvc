@@ -1,1 +1,1 @@
-已经和github关联：https://github.com/caibaoer/prespringmvc.git
+已经和github关联：https://github.com/caibaoer/prespringmvc.git         ok
